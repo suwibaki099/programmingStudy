@@ -1,7 +1,7 @@
 user = []
 adminPassword = []
 
-user = input("UserName: ")
+input("UserName: ", user)
 adminPassword = input("Password: ")
 
 
