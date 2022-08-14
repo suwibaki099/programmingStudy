@@ -72,9 +72,9 @@ print(sentence,end=' ')
 
 words = break_words(sentence)
 sorted_words = sort_sentence(sentence)
-count = count_words(words)
+counted_words = count_words(words)
 
-print(f"has {count} words")
+print(f"has {counted_words} words")
 print("The words are:", words)
 print("The sorted words are:", sorted_words)
 
